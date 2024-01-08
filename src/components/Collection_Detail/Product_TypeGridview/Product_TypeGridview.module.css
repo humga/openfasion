@@ -1,0 +1,82 @@
+.heart.heart {
+  left: 140px;
+  top: 198px;
+  width: 16px;
+  height: 16px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 24px;
+  top: 246px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+.frame18 {
+  position: relative;
+  width: 165px;
+  height: 220px;
+  align-items: flex-start;
+}
+.rectangle344 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 165px;
+  height: 220px;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle344.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame15 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  padding: 0 0 0 4px;
+}
+.frame14 {
+  width: 159px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+._21WN {
+  color: #000;
+  font-size: 12px;
+  line-height: 18px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 34px;
+  height: 15px;
+  flex-direction: column;
+}
+.reversibleAngoraCardigan {
+  color: #555;
+  font-size: 12px;
+  line-height: 18px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 157.3896px;
+  height: 14px;
+  flex-direction: column;
+}
+._120 {
+  color: #dd8560;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

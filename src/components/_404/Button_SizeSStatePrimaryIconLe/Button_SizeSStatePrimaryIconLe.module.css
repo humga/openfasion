@@ -1,0 +1,35 @@
+.forwardArrow.forwardArrow {
+  transform: matrix(-1, 0, 0, -1, 0, 0);
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.line7.line7 {
+  border-bottom: solid 1px #fcfcfc;
+}
+.root {
+  position: absolute;
+  left: 459px;
+  top: 20px;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 30px;
+  background-color: #000;
+  backdrop-filter: blur(2px);
+}
+.homePage {
+  color: #fcfcfc;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

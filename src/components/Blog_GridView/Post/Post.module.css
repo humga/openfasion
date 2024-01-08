@@ -1,0 +1,156 @@
+.bookmark.bookmark {
+  left: 92.4198%;
+  right: 2.3324%;
+  top: 4.6069%;
+  bottom: 87.6236%;
+  width: initial;
+  height: initial;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: 343px;
+  height: 231.6729px;
+  align-items: flex-start;
+}
+.rectangle434 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 13.6714%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle434.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle435 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 48.8209%;
+  bottom: 13.7954%;
+  background-image: linear-gradient(
+    -8.3deg,
+    #111f 0%,
+    #111111fd 7%,
+    #111111f6 13%,
+    #111111ea 20%,
+    #111111d9 27%,
+    #111111c4 33%,
+    #111a 40%,
+    #1111118e 47%,
+    #11111171 53%,
+    #1115 60%,
+    #1111113b 67%,
+    #11111126 73%,
+    #11111115 80%,
+    #11111109 87%,
+    #11111102 93%,
+    #1110 100%
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+._2021StyleGuideTheBiggestFallTr {
+  position: absolute;
+  left: 4.0816%;
+  right: 9.0379%;
+  top: 63.1102%;
+  bottom: 19.6241%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fcfcfc;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fcfcfc;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.frame30 {
+  position: absolute;
+  left: 0;
+  right: 80.4665%;
+  top: 89.6406%;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  padding: 2px 6px;
+  outline: solid 1px #f5f5f5;
+  outline-offset: -1px;
+  border-radius: 20px;
+}
+.Fashion {
+  color: #888;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame31 {
+  position: absolute;
+  left: 22.449%;
+  right: 63.5569%;
+  top: 89.6406%;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  padding: 2px 6px;
+  outline: solid 1px #f5f5f5;
+  outline-offset: -1px;
+  border-radius: 20px;
+}
+.Tips {
+  color: #888;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._4DaysAgo {
+  color: #888;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 81.9242%;
+  right: 0;
+  top: 90.5039%;
+  bottom: 0.8633%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

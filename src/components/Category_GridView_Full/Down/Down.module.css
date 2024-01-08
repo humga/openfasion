@@ -1,0 +1,20 @@
+.root {
+  position: absolute;
+  left: 2783.999px;
+  top: -24px;
+  width: 24px;
+  height: 24px;
+  align-items: flex-start;
+}
+.polygon1 {
+  position: absolute;
+  left: 6px;
+  top: 7.3204px;
+  width: 12px;
+  height: 9.3593px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

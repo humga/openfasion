@@ -1,0 +1,321 @@
+.close.close {
+  left: 16px;
+  top: 10px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.forward.forward {
+  opacity: 0.5;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.forward2.forward2 {
+  opacity: 0.5;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.forward3.forward3 {
+  opacity: 0.5;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.forward4.forward4 {
+  opacity: 0.5;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.forward5.forward5 {
+  opacity: 0.5;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.forward6.forward6 {
+  opacity: 0.5;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 640px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.line13 {
+  opacity: 0.2;
+  transform-origin: bottom left;
+  position: absolute;
+  left: 85.1608px;
+  top: 92.4661px;
+  width: 244.2104px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 0.5px #888;
+  margin-bottom: -0.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.women {
+  color: #333;
+  font-size: 14px;
+  line-height: 34.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 19px;
+  top: 54.1194px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.newApparelBagShoesBeautyAccess {
+  position: absolute;
+  left: 17.5781px;
+  top: 112.7361px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #333;
+  font-size: 16px;
+  line-height: 48.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #333;
+  font-size: 16px;
+  line-height: 48.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #333;
+  font-size: 16px;
+  line-height: 48.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #333;
+  font-size: 16px;
+  line-height: 48.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #333;
+  font-size: 16px;
+  line-height: 48.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #333;
+  font-size: 16px;
+  line-height: 48.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.man {
+  opacity: 0.5;
+  color: #333;
+  font-size: 14px;
+  line-height: 34.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 145.6089px;
+  top: 54.1194px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.kids {
+  opacity: 0.5;
+  color: #333;
+  font-size: 14px;
+  line-height: 34.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 243.2666px;
+  top: 54.1194px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.dropdown {
+  position: absolute;
+  left: 309.5781px;
+  top: 124px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 25px;
+}
+.twitter {
+  position: absolute;
+  left: 115.9497px;
+  top: 576.694px;
+  width: 24px;
+  height: 24px;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.instagram {
+  position: absolute;
+  left: 174.9497px;
+  top: 576.694px;
+  width: 24px;
+  height: 24px;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.youTube {
+  position: absolute;
+  left: 233.9497px;
+  top: 576.694px;
+  width: 24px;
+  height: 24px;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.storeLocator {
+  position: absolute;
+  left: 18.324px;
+  top: 481px;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 16px;
+}
+.storeLocator2 {
+  color: #555;
+  font-size: 16px;
+  line-height: 34.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line12 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 19.479px;
+  top: 92.4661px;
+  width: 71.0991px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 0.5px #dd8560;
+  margin-bottom: -0.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.rectangle327 {
+  transform-origin: top left;
+  position: absolute;
+  left: 54px;
+  top: 88.5318px;
+  width: 6px;
+  height: 6px;
+  background-color: #dd8560;
+  transform: matrix(0.7071, 0.7071, -0.7071, 0.7071, 0, 0);
+}
+.customerService {
+  position: absolute;
+  left: 18.324px;
+  top: 430.3897px;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 16px;
+}
+._7867138616 {
+  color: #555;
+  font-size: 16px;
+  line-height: 34.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.08em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.divider {
+  position: absolute;
+  left: 125.0206px;
+  top: 543.5022px;
+  width: 124.9588px;
+  height: 9.2543px;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}

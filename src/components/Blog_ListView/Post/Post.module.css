@@ -1,0 +1,76 @@
+.root {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: 342.9436px;
+  height: 155px;
+  align-items: flex-start;
+}
+.rectangle433 {
+  position: absolute;
+  left: 0;
+  right: 65.0088%;
+  top: 0.0281%;
+  bottom: -0.0281%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle433.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.theExcitementOfFallFashionIsHe {
+  opacity: 0.8;
+  color: #333;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 38.4176%;
+  right: 0;
+  top: 37.4194%;
+  bottom: 18.916%;
+  flex-direction: column;
+}
+._2021StyleGuideTheBiggestFallTr {
+  position: absolute;
+  left: 38.4903%;
+  right: 0.7122%;
+  top: 6.4797%;
+  bottom: 52.2922%;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+._4DaysAgo {
+  color: #888;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 39.0735%;
+  right: 42.8478%;
+  top: 86.664%;
+  bottom: 0.4328%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

@@ -1,0 +1,177 @@
+.search.search {
+  left: 4.2667%;
+  right: 89.3333%;
+  top: 3.4111%;
+  bottom: 92.8389%;
+  width: initial;
+  height: initial;
+}
+.delete.delete {
+  left: 81.6%;
+  right: 12%;
+  top: 3.8799%;
+  bottom: 92.3701%;
+  width: initial;
+  height: initial;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.frame36.frame36 {
+  left: 105px;
+}
+.dress {
+  color: #555;
+  font-size: 13px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame37.frame37 {
+  left: 220px;
+}
+.dress2 {
+  color: #555;
+  font-size: 13px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 640px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.line15 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 4.2667%;
+  right: 12.1401%;
+  top: 9.0351%;
+  bottom: 90.8086%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #555;
+  margin-bottom: -1px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.searchItems {
+  color: #555;
+  font-size: 14px;
+  line-height: 34.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 13.8485%;
+  right: 62.9515%;
+  top: 2.6563%;
+  bottom: 91.875%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.popularSearchTerms {
+  color: #888;
+  font-size: 14px;
+  line-height: 34.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.2667%;
+  right: 57.8667%;
+  top: 25.4267%;
+  bottom: 69.1046%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.recentSearch {
+  color: #888;
+  font-size: 14px;
+  line-height: 34.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.2667%;
+  right: 70.1333%;
+  top: 10.9375%;
+  bottom: 83.5938%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.trendDressBagTshirtBeautyAcces {
+  position: absolute;
+  left: 4.2667%;
+  right: 71.2%;
+  top: 31.1148%;
+  bottom: 34.6665%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 16px;
+  line-height: 36.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  line-height: 36.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  line-height: 36.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  line-height: 36.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  line-height: 36.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  line-height: 36.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}

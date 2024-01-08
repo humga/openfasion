@@ -1,0 +1,32 @@
+.root {
+  position: absolute;
+  left: 410px;
+  top: 41px;
+  width: 24px;
+  height: 24px;
+  align-items: flex-start;
+}
+.rectangle316 {
+  position: absolute;
+  left: -16.6676%;
+  right: -1.1835%;
+  top: -16.6667%;
+  bottom: -1.1845%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.ellipse35 {
+  position: absolute;
+  left: 29.7526%;
+  right: 61.9141%;
+  top: 27.3193%;
+  bottom: 64.3473%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}

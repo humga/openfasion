@@ -1,0 +1,213 @@
+.header.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.rectangle331.rectangle331 {
+  background-color: #fff;
+}
+.tag.tag {
+  left: 16px;
+  top: 0;
+}
+._2021 {
+  color: #333;
+  font-size: 14px;
+  line-height: 16px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame5.frame5 {
+  left: 101px;
+  top: 0;
+}
+._20212 {
+  color: #333;
+  font-size: 14px;
+  line-height: 16px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame6.frame6 {
+  left: 177px;
+  top: 0;
+}
+._20213 {
+  color: #333;
+  font-size: 14px;
+  line-height: 16px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame7.frame7 {
+  left: 250px;
+  top: 0;
+}
+._20214 {
+  color: #333;
+  font-size: 14px;
+  line-height: 16px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame8.frame8 {
+  left: 350px;
+  top: 0;
+}
+._20215 {
+  color: #333;
+  font-size: 14px;
+  line-height: 16px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.footer.footer {
+  position: absolute;
+  left: 0;
+  top: 1346.3143px;
+}
+.post.post {
+  top: 275.6729px;
+}
+.rectangle434.rectangle434 {
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle4342.png');
+}
+.post2.post2 {
+  top: 535.3457px;
+}
+.rectangle4342.rectangle4342 {
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle4343.png');
+}
+.post3.post3 {
+  top: 795.0186px;
+}
+.rectangle4343.rectangle4343 {
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle4344.png');
+}
+.button.button {
+  left: 82px;
+  top: 1264px;
+}
+.submit {
+  color: #000;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.plus.plus {
+  z-index: 0;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 1686px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.title {
+  position: absolute;
+  left: 0;
+  top: 89px;
+  width: 375px;
+  height: 50px;
+  align-items: flex-start;
+}
+.blog {
+  color: #000;
+  font-size: 18px;
+  line-height: 40px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 74.5779px;
+  top: 0.4944px;
+  width: 225.5081px;
+  height: 32.5759px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._3 {
+  position: absolute;
+  left: 124.8527px;
+  top: 33.0703px;
+  width: 124.9588px;
+  height: 9.2543px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.tag2 {
+  position: absolute;
+  left: 0;
+  top: 159px;
+  width: 375px;
+  height: 32px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.frame43 {
+  position: absolute;
+  left: 0;
+  top: 207px;
+  width: 375px;
+  height: 1040px;
+  align-items: flex-start;
+}

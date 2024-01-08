@@ -1,0 +1,55 @@
+.forwardArrow.forwardArrow {
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.line7.line7 {
+  top: 43.3704%;
+  border-bottom: solid 1px #f9f9f9;
+}
+.root {
+  position: absolute;
+  left: 459px;
+  top: 367px;
+  width: 375px;
+  height: 56px;
+  align-items: flex-start;
+}
+.bG {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #000;
+}
+.content {
+  position: absolute;
+  left: 36.2667%;
+  right: 36.2667%;
+  top: 31.9908%;
+  bottom: 25.152%;
+  width: min-content;
+  height: min-content;
+  place-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.checkout {
+  color: #fcfcfc;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

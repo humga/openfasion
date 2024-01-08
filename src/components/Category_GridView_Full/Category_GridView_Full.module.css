@@ -1,0 +1,226 @@
+.footer.footer {
+  position: absolute;
+  left: 0;
+  top: 2995px;
+}
+.pageNumber.pageNumber {
+  left: 77.5127px;
+  top: 2763px;
+}
+.product.product {
+  left: 16px;
+  top: 0;
+}
+.image15.image15 {
+  background-image:/* webpackIgnore: true */ url('/assets/image152.png');
+}
+.component21.component21 {
+  left: 17px;
+  top: 540.9834px;
+}
+.image152.image152 {
+  background-image:/* webpackIgnore: true */ url('/assets/image153.png');
+}
+.component22.component22 {
+  left: 17px;
+  top: 1082.1643px;
+}
+.image153.image153 {
+  background-image:/* webpackIgnore: true */ url('/assets/image154.png');
+}
+.component23.component23 {
+  left: 17px;
+  top: 1623.3452px;
+}
+.image154.image154 {
+  background-image:/* webpackIgnore: true */ url('/assets/image155.png');
+}
+.component24.component24 {
+  left: 17px;
+  top: 2164.5261px;
+}
+.image155.image155 {
+  background-image:/* webpackIgnore: true */ url('/assets/image156.png');
+}
+.gallery.gallery {
+  opacity: 0.5;
+  left: 286px;
+  top: 10.1062px;
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.down.down {
+  opacity: 0.5;
+  left: 244.6797px;
+  top: 11.1062px;
+  width: 16.07px;
+  height: 16.07px;
+}
+.polygon1.polygon1 {
+  left: 4.0175px;
+  top: 4.9016px;
+  width: 8.035px;
+  height: 6.2669px;
+}
+.polygon1 {
+  left: 4.0175px;
+  top: 4.9016px;
+  width: 8.035px;
+  height: 6.2669px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.filter.filter {
+  left: 331px;
+  top: 12.1062px;
+  width: 20px;
+  height: 20px;
+}
+.componentsIconFilter.componentsIconFilter {
+  width: 20px;
+  height: 20px;
+}
+.componentsIconFilter {
+  width: 20px;
+  height: 20px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.tag.tag {
+  left: 16px;
+  top: 52px;
+}
+.frame24.frame24 {
+  left: 119px;
+  top: 52px;
+}
+._2021 {
+  color: #333;
+  font-size: 14px;
+  line-height: 16px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.header.header {
+  position: absolute;
+  left: 0;
+  top: 5px;
+}
+.rectangle331.rectangle331 {
+  background-color: #fff;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 3333px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.product2 {
+  position: absolute;
+  left: -1px;
+  top: 177px;
+  width: 375px;
+  height: 2795px;
+  align-items: flex-start;
+}
+.filter2 {
+  position: absolute;
+  left: 0;
+  top: 77px;
+  width: 375px;
+  height: 95px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.rectangle345 {
+  opacity: 0.1;
+  position: absolute;
+  left: 197.2512px;
+  top: 1.8937px;
+  width: 72.7487px;
+  height: 36px;
+  border-radius: 33px;
+  background-color: #c4c4c4;
+}
+.ellipse34 {
+  position: absolute;
+  left: 278px;
+  top: 2.1062px;
+  width: 36px;
+  height: 36px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse35 {
+  position: absolute;
+  left: 323px;
+  top: 2.1062px;
+  width: 36px;
+  height: 36px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+._4500Apparel {
+  color: #333;
+  font-size: 14px;
+  line-height: 106%;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 15.7544px;
+  top: 14.3926px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.new {
+  color: #555;
+  font-size: 13px;
+  line-height: 106%;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 212.7813px;
+  top: 12.2285px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

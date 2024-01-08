@@ -1,0 +1,52 @@
+.root {
+  position: absolute;
+  left: 16.3694px;
+  top: 95.3118px;
+  width: 255px;
+  height: 390px;
+  align-items: flex-start;
+}
+.rectangle321 {
+  position: absolute;
+  left: -0.184%;
+  right: 0.2255%;
+  top: 0.0694%;
+  bottom: 20.0231%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle321.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame1 {
+  position: absolute;
+  left: 3.9216%;
+  right: 3.9216%;
+  top: 81.0025%;
+  bottom: 0.5359%;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+}
+.harrisTweedThreeButtonJacket {
+  color: #333;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 232.3603px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._120 {
+  color: #dd8560;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

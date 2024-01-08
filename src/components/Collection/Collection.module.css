@@ -1,0 +1,304 @@
+.header.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.footer.footer {
+  position: absolute;
+  left: 0;
+  top: 1820px;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 2159px;
+  align-items: flex-start;
+  background-color: #111;
+  overflow: hidden;
+}
+.frame56 {
+  position: absolute;
+  left: 0;
+  top: 90px;
+  width: 375px;
+  height: 592px;
+  align-items: flex-start;
+}
+._10 {
+  position: absolute;
+  left: 90.9944px;
+  top: -0.4259px;
+  width: 173.6628px;
+  height: 125.2817px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.october {
+  color: #fcfcfc;
+  font-size: 41.8646px;
+  line-height: 62.7969px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Bodoni Moda 28pt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  position: absolute;
+  left: 112.927px;
+  top: 15.4796px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.collection {
+  color: #fcfcfc;
+  font-size: 12.9294px;
+  line-height: 29.0911px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 6.0606px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 119.6089px;
+  top: 62.8552px;
+  width: 145.5852px;
+  height: 29.117px;
+  flex-direction: column;
+}
+.octoberCollection {
+  color: #fcfcfc;
+  font-size: 12.9294px;
+  line-height: 29.0911px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 164.8708px;
+  top: 562.3644px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._1 {
+  color: #fcfcfc;
+  font-size: 12.9294px;
+  line-height: 29.0911px;
+  font-weight: 900;
+  font-family: Bodoni Moda 28pt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 562.3644px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.image20 {
+  position: absolute;
+  left: 16px;
+  top: 98.1319px;
+  width: 343px;
+  height: 456.6188px;
+  background-image:/* webpackIgnore: true */ url('/assets/image20.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.line23 {
+  opacity: 0.1;
+  position: absolute;
+  left: 45.7292px;
+  top: 577.6992px;
+  width: 109.2487px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fff;
+  margin-bottom: -1px;
+}
+._11 {
+  position: absolute;
+  left: 153.1902px;
+  top: 360.1816px;
+  width: 243.3559px;
+  height: 175.5589px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.frame57 {
+  position: absolute;
+  left: 0;
+  top: 717px;
+  width: 375px;
+  height: 495px;
+  align-items: flex-start;
+}
+.blackCollection {
+  color: #fcfcfc;
+  font-size: 12.9294px;
+  line-height: 29.0911px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 189.8708px;
+  top: 464.9967px;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._2 {
+  color: #fcfcfc;
+  font-size: 12.9294px;
+  line-height: 29.0911px;
+  font-weight: 900;
+  font-family: Bodoni Moda 28pt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 464.9967px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.image21 {
+  position: absolute;
+  left: 16px;
+  top: -0.4861px;
+  width: 343px;
+  height: 456.6188px;
+  background-image:/* webpackIgnore: true */ url('/assets/image21.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.line24 {
+  opacity: 0.1;
+  position: absolute;
+  left: 45.7292px;
+  top: 480.3315px;
+  width: 109.2487px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fff;
+  margin-bottom: -1px;
+}
+.frame58 {
+  position: absolute;
+  left: 0;
+  top: 1266px;
+  width: 375px;
+  height: 495px;
+  align-items: flex-start;
+}
+.hAEBYHAEKIM {
+  color: #fcfcfc;
+  font-size: 12.9294px;
+  line-height: 29.0911px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 224.8708px;
+  top: 464.9971px;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._3 {
+  color: #fcfcfc;
+  font-size: 12.9294px;
+  line-height: 29.0911px;
+  font-weight: 900;
+  font-family: Bodoni Moda 28pt, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 16px;
+  top: 463.6414px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.image22 {
+  position: absolute;
+  left: 16px;
+  top: -0.4858px;
+  width: 343px;
+  height: 456.6188px;
+  background-image:/* webpackIgnore: true */ url('/assets/image22.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.line25 {
+  opacity: 0.1;
+  position: absolute;
+  left: 45.7292px;
+  top: 480.3318px;
+  width: 109.2487px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fff;
+  margin-bottom: -1px;
+}

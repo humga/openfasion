@@ -1,0 +1,30 @@
+.root {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  align-items: flex-start;
+}
+.ellipse33 {
+  position: absolute;
+  left: 8.3333%;
+  right: 8.3333%;
+  top: 4.1667%;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.ellipse22 {
+  position: absolute;
+  left: 37.5%;
+  right: 37.5%;
+  top: 33.3333%;
+  bottom: 41.6667%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}

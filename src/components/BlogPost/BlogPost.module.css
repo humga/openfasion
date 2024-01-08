@@ -1,0 +1,228 @@
+.header.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.rectangle331.rectangle331 {
+  background-color: #fff;
+}
+.footer.footer {
+  position: absolute;
+  left: 0;
+  top: 1410px;
+}
+.bookmark.bookmark {
+  left: 88.8%;
+  right: 6.4%;
+  top: 26.476%;
+  bottom: 72.4955%;
+  width: initial;
+  height: initial;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 1750px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle434 {
+  position: absolute;
+  left: -1.0464%;
+  right: -0.3961%;
+  top: 4.084%;
+  bottom: 83.2409%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle434.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._2021StyleGuideTheBiggestFallTr {
+  color: #000;
+  font-size: 14px;
+  line-height: 21.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 4.2667%;
+  right: 2.7654%;
+  top: 17.652%;
+  bottom: 81.0908%;
+  height: min-content;
+  flex-direction: column;
+}
+.youGuysKnowHowMuchILoveMixingH {
+  color: #333;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16px;
+  top: 340px;
+  width: 314.4141px;
+  height: 222.414px;
+  flex-direction: column;
+}
+.iFoundThisSaintLaurentCanvasHa {
+  position: absolute;
+  left: 16px;
+  top: 1058.6221px;
+  width: 314.4141px;
+  height: 222.414px;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 14px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #333;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #dd8560;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label3 {
+  color: #333;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.image14 {
+  position: absolute;
+  left: 16.4082px;
+  top: 573.2065px;
+  width: 342.5918px;
+  height: 450.1243px;
+  background-image:/* webpackIgnore: true */ url('/assets/image14.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle327 {
+  transform-origin: top left;
+  position: absolute;
+  left: 174.4008px;
+  top: 1038.1155px;
+  width: 5.6569px;
+  height: 5.6569px;
+  background-color: #888;
+  transform: matrix(0.7071, 0.7071, -0.7071, 0.7071, 0, 0);
+}
+.rectangle329 {
+  transform-origin: top left;
+  position: absolute;
+  left: 200.5991px;
+  top: 1038.1155px;
+  width: 5.6569px;
+  height: 5.6569px;
+  outline: solid 0.5px #888;
+  outline-offset: 0px;
+  transform: matrix(0.7071, 0.7071, -0.7071, 0.7071, 0, 0);
+}
+.rectangle328 {
+  transform-origin: top left;
+  position: absolute;
+  left: 187.5px;
+  top: 1038.1155px;
+  width: 5.6569px;
+  height: 5.6569px;
+  outline: solid 0.5px #888;
+  outline-offset: 0px;
+  transform: matrix(0.7071, 0.7071, -0.7071, 0.7071, 0, 0);
+}
+.postedByOpenFashion {
+  color: #555;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16px;
+  top: 1312.6606px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._3DaysAgo {
+  color: #555;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 193px;
+  top: 1312.6606px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame30 {
+  position: absolute;
+  left: 4.2667%;
+  right: 71.7333%;
+  top: 76.8736%;
+  bottom: 21.2978%;
+  place-content: center;
+  align-items: center;
+  padding: 2px 6px;
+  outline: solid 1px #f5f5f5;
+  outline-offset: -1px;
+  border-radius: 20px;
+}
+.Fashion {
+  color: #888;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame31 {
+  position: absolute;
+  left: 32%;
+  right: 50.9333%;
+  top: 76.8736%;
+  bottom: 21.2978%;
+  place-content: center;
+  align-items: center;
+  padding: 2px 6px;
+  outline: solid 1px #f5f5f5;
+  outline-offset: -1px;
+  border-radius: 20px;
+}
+.Tips {
+  color: #888;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

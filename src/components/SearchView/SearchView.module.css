@@ -1,0 +1,323 @@
+.header.header {
+  position: absolute;
+  left: 0;
+  top: 5px;
+}
+.rectangle331.rectangle331 {
+  background-color: #fff;
+}
+.listview.listview {
+  opacity: 0.5;
+  left: 286px;
+  top: 10.1062px;
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.down.down {
+  opacity: 0.5;
+  left: 244.6798px;
+  top: 11.1062px;
+  width: 16.07px;
+  height: 16.07px;
+}
+.polygon1.polygon1 {
+  left: 4.0175px;
+  top: 4.9016px;
+  width: 8.035px;
+  height: 6.2669px;
+}
+.polygon1 {
+  left: 4.0175px;
+  top: 4.9016px;
+  width: 8.035px;
+  height: 6.2669px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.filter.filter {
+  left: 331px;
+  top: 12.1062px;
+  width: 20px;
+  height: 20px;
+}
+.componentsIconFilter.componentsIconFilter {
+  width: 20px;
+  height: 20px;
+}
+.componentsIconFilter {
+  width: 20px;
+  height: 20px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.product.product {
+  left: 15px;
+  top: 0.1832px;
+}
+.rectangle344.rectangle344 {
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle3442.png');
+}
+.frame20.frame20 {
+  left: 15px;
+  top: 600.1832px;
+}
+.rectangle3442.rectangle3442 {
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle3443.png');
+}
+.frame18.frame18 {
+  left: 15px;
+  top: 300.1832px;
+}
+.rectangle3443.rectangle3443 {
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle3444.png');
+}
+.frame21.frame21 {
+  left: 15px;
+  top: 900.1832px;
+}
+.rectangle3444.rectangle3444 {
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle3445.png');
+}
+.frame17.frame17 {
+  left: 192px;
+  top: 0.1832px;
+}
+.rectangle3445.rectangle3445 {
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle3446.png');
+}
+._21WN {
+  color: #000;
+  font-size: 12px;
+  line-height: 18px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 34px;
+  height: 15px;
+  flex-direction: column;
+}
+.frame22.frame22 {
+  left: 192px;
+  top: 600.1832px;
+}
+.rectangle3446.rectangle3446 {
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle3447.png');
+}
+._21WN2 {
+  color: #000;
+  font-size: 12px;
+  line-height: 18px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 34px;
+  height: 15px;
+  flex-direction: column;
+}
+.frame19.frame19 {
+  left: 192px;
+  top: 300.1832px;
+}
+.rectangle3447.rectangle3447 {
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle3448.png');
+}
+._21WN3 {
+  color: #000;
+  font-size: 12px;
+  line-height: 18px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 34px;
+  height: 15px;
+  flex-direction: column;
+}
+.frame23.frame23 {
+  left: 192px;
+  top: 900.1832px;
+}
+.rectangle3448.rectangle3448 {
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle3449.png');
+}
+._21WN4 {
+  color: #000;
+  font-size: 12px;
+  line-height: 18px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 34px;
+  height: 15px;
+  flex-direction: column;
+}
+.pageNumber.pageNumber {
+  left: 75.5127px;
+  top: 1243px;
+}
+.footer.footer {
+  position: absolute;
+  left: 0;
+  top: 1529.7793px;
+}
+.search.search {
+  left: 89.3333%;
+  right: 4.2667%;
+  top: 15%;
+  bottom: 25%;
+  width: initial;
+  height: initial;
+}
+.delete.delete {
+  width: 16px;
+  height: 16px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 1871px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.filter2 {
+  position: absolute;
+  left: 0;
+  top: 124px;
+  width: 375px;
+  height: 40px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.rectangle345 {
+  opacity: 0.1;
+  position: absolute;
+  left: 197.2513px;
+  top: 1.8938px;
+  width: 72.7487px;
+  height: 36px;
+  border-radius: 33px;
+  background-color: #c4c4c4;
+}
+.ellipse34 {
+  position: absolute;
+  left: 278px;
+  top: 2.1062px;
+  width: 36px;
+  height: 36px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse35 {
+  position: absolute;
+  left: 323px;
+  top: 2.1062px;
+  width: 36px;
+  height: 36px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+._8ResultOfDress {
+  color: #333;
+  font-size: 14px;
+  line-height: 106%;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 15.7545px;
+  top: 14.3927px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.new {
+  color: #555;
+  font-size: 13px;
+  line-height: 106%;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 212.7814px;
+  top: 12.2285px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.product2 {
+  position: absolute;
+  left: 1px;
+  top: 178px;
+  width: 373px;
+  height: 1300px;
+  align-items: flex-start;
+}
+.searchbox {
+  position: absolute;
+  left: 0;
+  top: 70px;
+  width: 375px;
+  height: 40px;
+  align-items: flex-start;
+}
+.line15 {
+  opacity: 0.5;
+  transform-origin: bottom left;
+  position: absolute;
+  left: 4.2667%;
+  right: 4.2667%;
+  top: 97.0618%;
+  bottom: 0.4382%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #888;
+  margin-bottom: -1px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.dress {
+  color: #555;
+  font-size: 16px;
+  line-height: 34.5px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.2667%;
+  right: 84.2667%;
+  top: -1.2298%;
+  bottom: 13.7298%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame39 {
+  position: absolute;
+  left: 298px;
+  top: 5px;
+  width: min-content;
+  height: min-content;
+  padding: 6px;
+  border-radius: 25px;
+  background-color: #f8f8f8;
+}

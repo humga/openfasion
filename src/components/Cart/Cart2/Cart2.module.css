@@ -1,0 +1,158 @@
+.plus.plus {
+  left: 74.359%;
+  right: 5.1282%;
+  top: 16.6667%;
+  bottom: 16.6667%;
+  width: 16px;
+  height: 16px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 313.4328px;
+  height: 134px;
+  align-items: flex-start;
+}
+.frame18 {
+  position: absolute;
+  left: 0;
+  right: 68.0952%;
+  top: 0;
+  bottom: 0;
+  align-items: flex-start;
+}
+.rectangle344 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100px;
+  height: 133.3333px;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle344.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame27 {
+  position: absolute;
+  left: 35.3238%;
+  right: 0.5476%;
+  top: 5.2239%;
+  bottom: 8.209%;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+.frame14 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+}
+.lamerei {
+  color: #000;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.recycleBoucleKnitCardiganPink {
+  color: #555;
+  font-size: 12px;
+  line-height: 18px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.group212 {
+  position: relative;
+  width: 78px;
+  height: 24px;
+}
+.ellipse68 {
+  position: absolute;
+  left: 0;
+  right: 69.2308%;
+  top: 0;
+  bottom: 0;
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse69 {
+  position: absolute;
+  left: 69.2308%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.plus2 {
+  position: absolute;
+  left: 5.1282%;
+  right: 74.359%;
+  top: 16.6667%;
+  bottom: 16.6667%;
+  width: 16px;
+  height: 16px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+._1 {
+  color: #000;
+  font-size: 14px;
+  line-height: 14px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 47.5076%;
+  right: 46.0822%;
+  top: 19.8649%;
+  bottom: 21.8018%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._120 {
+  color: #dd8560;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

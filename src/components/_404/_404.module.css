@@ -1,0 +1,80 @@
+.header.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.rectangle331.rectangle331 {
+  background-color: #fff;
+}
+.button.button {
+  left: 86px;
+  top: 353px;
+}
+.footer.footer {
+  position: absolute;
+  left: 0;
+  top: 457px;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 797px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.pAGENOTFOUND {
+  position: absolute;
+  left: 63.7228px;
+  top: 93.7473px;
+  width: 249.2184px;
+  height: 32.5759px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 18px;
+  line-height: 40px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  line-height: 40px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+.weCanTFindThePageYouLookingFor {
+  color: #000;
+  font-size: 18px;
+  line-height: 28px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 51.4591px;
+  top: 261.6099px;
+  width: 272.0817px;
+  height: 69.8588px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.tailorsDummy {
+  position: absolute;
+  left: 162.5px;
+  top: 189px;
+  width: 50px;
+  height: 50px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

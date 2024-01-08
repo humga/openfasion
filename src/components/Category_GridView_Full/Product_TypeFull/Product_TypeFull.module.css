@@ -1,0 +1,79 @@
+.heart.heart {
+  left: 90.9621%;
+  right: 4.3732%;
+  top: 83.7663%;
+  bottom: 13.1037%;
+  width: initial;
+  height: initial;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 459px;
+  top: 20px;
+  width: 342.9999px;
+  height: 511.1808px;
+  align-items: flex-start;
+}
+.image15 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 10.534%;
+  background-image:/* webpackIgnore: true */ url('/assets/image15.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mOHAN {
+  color: #000;
+  font-size: 18px;
+  line-height: 40px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0;
+  right: 72.5947%;
+  top: 89.7921%;
+  bottom: 3.7523%;
+  flex-direction: column;
+}
+.recycleBoucleKnitCardiganPink {
+  color: #555;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0.1412%;
+  right: 21.7247%;
+  top: 96.2477%;
+  bottom: -0.9427%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._120 {
+  color: #dd8560;
+  font-size: 18px;
+  line-height: 14px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 305px;
+  top: 496px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

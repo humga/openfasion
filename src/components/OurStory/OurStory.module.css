@@ -1,0 +1,185 @@
+.header.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.rectangle331.rectangle331 {
+  background-color: #fff;
+}
+.button.button {
+  left: 0;
+  top: 846px;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 902px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.openFashionFreeEcommerceUIKitI {
+  position: absolute;
+  left: 14.4063px;
+  top: 152.6815px;
+  width: 344.5938px;
+  height: 245.8141px;
+  flex-direction: column;
+}
+.textBlock {
+  color: #333;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #333;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #333;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.receiveEarlyAccessToNewArrival {
+  color: #888;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 14.4063px;
+  top: 711.3442px;
+  width: 344.5938px;
+  height: 46.196px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.oURStory {
+  color: #000;
+  font-size: 18px;
+  line-height: 40px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 75.5781px;
+  top: 93.7473px;
+  width: 225.5081px;
+  height: 32.5759px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.signUp {
+  color: #000;
+  font-size: 18px;
+  line-height: 40px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 17.6644px;
+  top: 664.6241px;
+  width: 341.3356px;
+  height: 84.683px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._3 {
+  position: absolute;
+  left: 125.8525px;
+  top: 126.3232px;
+  width: 124.9588px;
+  height: 9.2543px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+._4 {
+  position: absolute;
+  left: 125.8525px;
+  top: 697.2001px;
+  width: 124.9588px;
+  height: 9.2543px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.image3 {
+  position: absolute;
+  left: -4.4712px;
+  top: 379.1233px;
+  width: 383.2006px;
+  height: 238.8783px;
+  background-image:/* webpackIgnore: true */ url('/assets/image3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.inputTextLightFocus {
+  position: absolute;
+  left: 16px;
+  top: 767px;
+  width: 343px;
+  height: 51px;
+  align-items: flex-start;
+}
+.input {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 1.9608%;
+  bottom: 0;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.background {
+  position: absolute;
+  left: 0;
+  right: 5.2478%;
+  top: -0.8867%;
+  bottom: 0.8867%;
+  background-color: #fff0;
+}
+.line {
+  position: absolute;
+  left: 0;
+  right: 0.3895%;
+  top: 97.1133%;
+  bottom: 0.8867%;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #d4d4d4;
+}
+.text {
+  color: #979797;
+  font-size: 15px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 73.4694%;
+  top: calc(50% - 1.4434px);
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}

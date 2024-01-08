@@ -1,0 +1,130 @@
+.header.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.rectangle331.rectangle331 {
+  background-color: #fff;
+}
+.close.close {
+  left: 327px;
+  top: 21px;
+  width: 32px;
+  height: 32px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 761px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle438 {
+  position: absolute;
+  left: 0;
+  top: -1.2222px;
+  width: 375px;
+  height: 713.007px;
+  background-color: #000000e5;
+  backdrop-filter: blur(2px);
+}
+.image15 {
+  position: absolute;
+  left: 0;
+  top: 78.0896px;
+  width: 375px;
+  height: 500px;
+  background-image:/* webpackIgnore: true */ url('/assets/image15.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image16 {
+  position: absolute;
+  left: 0;
+  top: 590.0896px;
+  width: 375px;
+  height: 500px;
+  background-image:/* webpackIgnore: true */ url('/assets/image16.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame38 {
+  position: absolute;
+  left: 351px;
+  top: 318px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+}
+.rectangle327 {
+  width: 5.6569px;
+  height: 5.6569px;
+  background-color: #a8715a;
+  transform: matrix(-0.7071, 0.7071, -0.7071, -0.7071, 0, 0);
+}
+.rectangle328 {
+  width: 5.6569px;
+  height: 5.6569px;
+  background-color: #f9f9f9;
+  transform: matrix(-0.7071, 0.7071, -0.7071, -0.7071, 0, 0);
+}
+.rectangle329 {
+  width: 5.6569px;
+  height: 5.6569px;
+  background-color: #f9f9f9;
+  transform: matrix(-0.7071, 0.7071, -0.7071, -0.7071, 0, 0);
+}
+.rectangle330 {
+  width: 5.6569px;
+  height: 5.6569px;
+  background-color: #f9f9f9;
+  transform: matrix(-0.7071, 0.7071, -0.7071, -0.7071, 0, 0);
+}
+.rectangle3312 {
+  width: 5.6569px;
+  height: 5.6569px;
+  background-color: #f9f9f9;
+  transform: matrix(-0.7071, 0.7071, -0.7071, -0.7071, 0, 0);
+}
+.rectangle439 {
+  position: absolute;
+  left: 0;
+  top: 631.2867px;
+  width: 375px;
+  height: 129.7133px;
+  background-image: linear-gradient(
+    0deg,
+    #a8715aff 0%,
+    #a8715afd 7%,
+    #a8715af6 13%,
+    #a8715aea 20%,
+    #a8715ad9 27%,
+    #a8715ac4 33%,
+    #a8715aaa 40%,
+    #a8715a8e 47%,
+    #a8715a71 53%,
+    #a8715a55 60%,
+    #a8715a3b 67%,
+    #a8715a26 73%,
+    #a8715a15 80%,
+    #a8715a09 87%,
+    #a8715a02 93%,
+    #a8715a00 100%
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}

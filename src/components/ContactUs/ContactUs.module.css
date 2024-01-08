@@ -1,0 +1,180 @@
+.header.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.rectangle331.rectangle331 {
+  background-color: #fff;
+}
+.button.button {
+  left: 94px;
+  top: 336px;
+}
+.button2.button2 {
+  left: 122px;
+  top: 717px;
+}
+.chatWitHUs {
+  color: #fcfcfc;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.footer.footer {
+  position: absolute;
+  left: 0;
+  top: 1032px;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 1374px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.contactUs {
+  color: #000;
+  font-size: 18px;
+  line-height: 40px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 75.5781px;
+  top: 93.7473px;
+  width: 225.5081px;
+  height: 32.5759px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._3 {
+  position: absolute;
+  left: 125.8525px;
+  top: 126.3232px;
+  width: 124.9588px;
+  height: 9.2543px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.needAnASAPAnswerContactUsViaCh {
+  color: #333;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 14.4063px;
+  top: 252px;
+  width: 344.5938px;
+  height: 67.7121px;
+  flex-direction: column;
+}
+.chatMessage {
+  position: absolute;
+  left: 162.5px;
+  top: 186px;
+  width: 50px;
+  height: 50px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.youCanTextUsAt8003092622OrClic {
+  color: #333;
+  font-size: 16px;
+  line-height: 23px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 14.4063px;
+  top: 501.7122px;
+  width: 344.5938px;
+  height: 199.7313px;
+  flex-direction: column;
+}
+.addMessage {
+  position: absolute;
+  left: 159px;
+  top: 435.7122px;
+  width: 50px;
+  height: 50px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.toSendUsAPrivateOrDirectMessag {
+  position: absolute;
+  left: 14.4063px;
+  top: 883.4435px;
+  width: 344.5938px;
+  height: 122.5759px;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 16px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #333;
+  font-size: 16px;
+  line-height: 23px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #333;
+  font-size: 16px;
+  line-height: 23px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+}
+.label3 {
+  color: #333;
+  font-size: 16px;
+  line-height: 23px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #333;
+  font-size: 16px;
+  line-height: 23px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+}
+.label5 {
+  color: #333;
+  font-size: 16px;
+  line-height: 23px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.twitter {
+  position: absolute;
+  left: 162.5px;
+  top: 817.4435px;
+  width: 50px;
+  height: 50px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}

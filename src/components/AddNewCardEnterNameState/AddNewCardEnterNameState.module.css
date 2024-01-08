@@ -1,0 +1,477 @@
+.header.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.rectangle331.rectangle331 {
+  background-color: #fff;
+}
+.button.button {
+  left: 0;
+  top: 741px;
+}
+.content.content {
+  left: 32%;
+  right: 32%;
+}
+.plus.plus {
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.checkout {
+  color: #fcfcfc;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 375px;
+  height: 797px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.paymentMethod {
+  color: #000;
+  font-size: 18px;
+  line-height: 40px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 46.1891px;
+  top: 93.7473px;
+  width: 284.2857px;
+  height: 32.5759px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._3 {
+  position: absolute;
+  left: 125.8527px;
+  top: 126.3233px;
+  width: 124.9588px;
+  height: 9.2543px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.background {
+  position: absolute;
+  left: 29.4133px;
+  top: 148.4366px;
+  width: 316px;
+  height: 190px;
+  border-radius: 16px;
+  background-image: linear-gradient(90deg, #434343ff 0%, #000f 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.background2 {
+  position: absolute;
+  left: 359px;
+  top: 148.4366px;
+  width: 316px;
+  height: 190px;
+  border-radius: 16px;
+  background-image: linear-gradient(90deg, #29323cff 0%, #485563ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.background3 {
+  position: absolute;
+  left: -300px;
+  top: 148.4366px;
+  width: 316px;
+  height: 190px;
+  border-radius: 16px;
+  background-image: linear-gradient(90deg, #3b41c5ff 0%, #a981bbff 49%, #ffc8a9ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.irisWatson {
+  color: #fff;
+  font-size: 16px;
+  line-height: 16px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 41.1924px;
+  top: 277.0586px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._325 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 16px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 287.1819px;
+  top: 276.0444px;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._2365365423653698 {
+  color: #fff;
+  font-size: 18px;
+  line-height: 16px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1px;
+  position: absolute;
+  left: 41.0953px;
+  top: 301.7227px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.masterCard {
+  position: absolute;
+  left: 282px;
+  top: 159.3829px;
+  width: 52.1513px;
+  height: 32.0001px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.inputTextLightFocus {
+  position: absolute;
+  left: 16px;
+  top: 588px;
+  width: 343px;
+  height: 50px;
+  align-items: flex-start;
+}
+.input {
+  position: absolute;
+  left: 0;
+  right: 0.2915%;
+  top: 0;
+  bottom: 0;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.background4 {
+  position: absolute;
+  left: 0;
+  right: 4.9708%;
+  top: -0.8867%;
+  bottom: 0.8867%;
+  background-color: #fff0;
+}
+.line {
+  position: absolute;
+  left: 0;
+  right: -0.1444%;
+  top: 97.0595%;
+  bottom: 0.8329%;
+  background-color: #d4d4d4;
+}
+.text {
+  color: #979797;
+  font-size: 15px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 90.3509%;
+  top: calc(50% - 1.4434px);
+  height: min-content;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.inputTextLightFocus2 {
+  position: absolute;
+  left: 194px;
+  top: 518px;
+  width: 161px;
+  height: 50px;
+  align-items: flex-start;
+}
+.input2 {
+  position: absolute;
+  left: 0;
+  right: -1.8634%;
+  top: 0;
+  bottom: 0;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.background5 {
+  position: absolute;
+  left: 0;
+  right: 5.4878%;
+  top: -0.8867%;
+  bottom: 0.8867%;
+  background-color: #fff0;
+}
+.line2 {
+  position: absolute;
+  left: 0;
+  right: -0.8073%;
+  top: 97.0466%;
+  bottom: 0.8202%;
+  background-color: #d4d4d4;
+}
+.text2 {
+  color: #979797;
+  font-size: 15px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 59.7561%;
+  top: calc(50% - 1.4434px);
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.inputTextLightFocus3 {
+  position: absolute;
+  left: 16px;
+  top: 518px;
+  width: 155px;
+  height: 50px;
+  align-items: flex-start;
+}
+.input3 {
+  position: absolute;
+  left: 0;
+  right: -7.0968%;
+  top: 0;
+  bottom: 0;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.background6 {
+  position: absolute;
+  left: 0;
+  right: 6.6265%;
+  top: 0;
+  bottom: 0;
+  background-color: #fff0;
+}
+.line3 {
+  position: absolute;
+  left: 0;
+  right: 0.1892%;
+  top: 97.9311%;
+  bottom: -0.0689%;
+  background-color: #d4d4d4;
+}
+.text3 {
+  color: #979797;
+  font-size: 15px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 52.4096%;
+  top: calc(50% - 1px);
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.inputTextLightFocus4 {
+  position: absolute;
+  left: 16px;
+  top: 447px;
+  width: 325px;
+  height: 51px;
+  align-items: flex-start;
+}
+.input4 {
+  position: absolute;
+  left: 0;
+  right: -5.5385%;
+  top: 1.9608%;
+  bottom: 0;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.background7 {
+  position: absolute;
+  left: 0;
+  right: -0.0945%;
+  top: -0.8867%;
+  bottom: 0.8867%;
+  background-color: #fff0;
+}
+.line4 {
+  position: absolute;
+  left: 0;
+  right: 0.3895%;
+  top: 97.1133%;
+  bottom: 0.8867%;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #d4d4d4;
+}
+.text4 {
+  color: #979797;
+  font-size: 15px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 71.4286%;
+  top: calc(50% - 1.4434px);
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.inputTextLightFocus5 {
+  position: absolute;
+  left: 16px;
+  top: 368px;
+  width: 343px;
+  height: 51px;
+  align-items: flex-start;
+}
+.input5 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 1.9608%;
+  bottom: 0;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.background8 {
+  position: absolute;
+  left: 0;
+  right: 5.2478%;
+  top: -0.8867%;
+  bottom: 0.8867%;
+  background-color: #fff0;
+}
+.line5 {
+  position: absolute;
+  left: 0;
+  right: 0.3895%;
+  top: 97.1133%;
+  bottom: 0.8867%;
+  max-width: 100%;
+  max-height: 100%;
+  background-color: #d4d4d4;
+}
+.text5 {
+  color: #979797;
+  font-size: 12px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 74.344%;
+  top: calc(50% - 15.3768px);
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.text6 {
+  color: #333;
+  font-size: 16px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 67.3469%;
+  top: calc(50% - -6.7281px);
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.rectangle327 {
+  transform-origin: top left;
+  position: absolute;
+  left: 171.5px;
+  top: 352.2866px;
+  width: 5.6569px;
+  height: 5.6569px;
+  outline: solid 0.5px #888;
+  outline-offset: 0px;
+  background-color: #fcfcfc;
+  transform: matrix(0.7071, 0.7071, -0.7071, 0.7071, 0, 0);
+}
+.rectangle329 {
+  transform-origin: top left;
+  position: absolute;
+  left: 203.5px;
+  top: 352.2866px;
+  width: 5.6569px;
+  height: 5.6569px;
+  outline: solid 0.5px #888;
+  outline-offset: 0px;
+  transform: matrix(0.7071, 0.7071, -0.7071, 0.7071, 0, 0);
+}
+.rectangle328 {
+  transform-origin: top left;
+  position: absolute;
+  left: 187.5px;
+  top: 352.2866px;
+  width: 5.6569px;
+  height: 5.6569px;
+  background-color: #dd8560;
+  transform: matrix(0.7071, 0.7071, -0.7071, 0.7071, 0, 0);
+}
+.PleaseEnterYourE {
+  color: #aaa;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16px;
+  top: 422.657px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

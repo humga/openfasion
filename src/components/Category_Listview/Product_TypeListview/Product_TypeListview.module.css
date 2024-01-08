@@ -1,0 +1,188 @@
+.heart.heart {
+  left: 90.9621%;
+  right: 4.3732%;
+  top: 79.8507%;
+  bottom: 8.209%;
+  width: initial;
+  height: initial;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.s {
+  color: #555;
+  font-size: 10px;
+  line-height: 12px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 27.0833%;
+  right: 27.0833%;
+  top: 25.764%;
+  bottom: 24.236%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.s2 {
+  color: #555;
+  font-size: 10px;
+  line-height: 12px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 35.4167%;
+  right: 35.4167%;
+  top: 25.764%;
+  bottom: 24.236%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: absolute;
+  left: 20px;
+  top: 41px;
+  width: 343px;
+  height: 134px;
+  align-items: flex-start;
+}
+.frame18 {
+  position: absolute;
+  left: 0;
+  right: 70.8455%;
+  top: 0;
+  bottom: 0;
+  align-items: flex-start;
+}
+.rectangle344 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100px;
+  height: 133.3333px;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle344.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame26 {
+  position: absolute;
+  left: 32.6531%;
+  right: 0;
+  top: 5.2239%;
+  bottom: 0.7463%;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 11px;
+}
+.frame15 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+}
+.frame14 {
+  width: 206px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.lamerei {
+  color: #000;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.recycleBoucleKnitCardiganPink {
+  color: #555;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 235px;
+  height: 18px;
+  flex-direction: column;
+}
+._120 {
+  color: #dd8560;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame24 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 3px;
+}
+.star1 {
+  width: 13.5132px;
+  height: 13.5132px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+._48Ratings {
+  color: #555;
+  font-size: 12px;
+  line-height: 14px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame25 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 6px;
+}
+.size {
+  color: #555;
+  font-size: 12px;
+  line-height: 14px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

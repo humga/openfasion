@@ -1,0 +1,64 @@
+.plus.plus {
+  left: 4.2667%;
+  right: 90.4%;
+  top: 33.5479%;
+  bottom: 30.7378%;
+  width: initial;
+  height: initial;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.heart.heart {
+  left: 84.5333%;
+  right: 9.0667%;
+  top: 30.8978%;
+  bottom: 26.245%;
+  width: initial;
+  height: initial;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 22px;
+  top: 368px;
+  width: 375px;
+  height: 56px;
+  align-items: flex-start;
+}
+.rectangle427 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #000;
+}
+.addToBasket {
+  color: #fcfcfc;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  position: absolute;
+  left: 11.6816%;
+  right: 56.3184%;
+  top: 31.9908%;
+  bottom: 25.152%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

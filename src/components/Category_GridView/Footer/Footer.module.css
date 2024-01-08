@@ -1,0 +1,186 @@
+.root {
+  position: relative;
+  width: 375px;
+  height: 340px;
+  align-items: flex-start;
+}
+.rectangle425 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 375px;
+  height: 340px;
+  background-color: #fff;
+}
+.rectangle340 {
+  opacity: 0.1;
+  position: absolute;
+  left: 0;
+  top: 294.7544px;
+  width: 375px;
+  height: 45.2455px;
+  background-color: #c4c4c4;
+}
+._8 {
+  position: absolute;
+  left: 125.0206px;
+  top: 71.7837px;
+  width: 124.9588px;
+  height: 9.2543px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+._10 {
+  position: absolute;
+  left: 125.0206px;
+  top: 206.5293px;
+  width: 124.9588px;
+  height: 9.2543px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.twitter {
+  position: absolute;
+  left: 106.5px;
+  top: 23.7837px;
+  width: 24px;
+  height: 24px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.instagram {
+  position: absolute;
+  left: 175.5px;
+  top: 23.7837px;
+  width: 24px;
+  height: 24px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.youTube {
+  position: absolute;
+  left: 244.5px;
+  top: 23.7837px;
+  width: 24px;
+  height: 24px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.about {
+  color: #000;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 58px;
+  top: 247.7837px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.contact {
+  color: #000;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 157px;
+  top: 247.7837px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.blog {
+  color: #000;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 270px;
+  top: 247.7837px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.supportOpenuiDesign60825876802 {
+  position: absolute;
+  left: 95px;
+  top: 99.7651px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #333;
+  font-size: 16px;
+  line-height: 184%;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #333;
+  font-size: 16px;
+  line-height: 184%;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #333;
+  font-size: 16px;
+  line-height: 184%;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #333;
+  font-size: 16px;
+  line-height: 184%;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.copyrightOpenUIAllRightsReserv {
+  color: #555;
+  font-size: 12px;
+  line-height: 158.5%;
+  font-family: Tenor Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 68.5px;
+  top: 305.8223px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
